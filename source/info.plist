@@ -105,7 +105,19 @@
 		</dict>
 	</array>
 	<key>readme</key>
-	<string></string>
+	<string>wordle-cheater
+the title says it all!
+
+
+`` to launch
+[abc] to exclude letters
+(abc) to include letters
+a...c to force position
+↩️ to open the word in the dictionary
+
+I used the famous GraphBase list of five-letter words by Donald Knuth (https://www-cs-faculty.stanford.edu/~knuth/sgb-words.txt)
+
+Feedback and suggesions for improvement welcome!</string>
 	<key>uidata</key>
 	<dict>
 		<key>8C5513CA-A3BA-48D5-96D2-969A094A641A</key>
@@ -126,7 +138,7 @@
 	<key>variablesdontexport</key>
 	<array/>
 	<key>version</key>
-	<string>0.1</string>
+	<string>0.1.1</string>
 	<key>webaddress</key>
 	<string>https://github.com/giovannicoppola/alfred-wordle-cheater</string>
 </dict>
