@@ -46,7 +46,7 @@
 				<key>escaping</key>
 				<integer>102</integer>
 				<key>keyword</key>
-				<string>``</string>
+				<string>{var:mainkeyword}</string>
 				<key>queuedelaycustom</key>
 				<integer>3</integer>
 				<key>queuedelayimmediatelyinitially</key>
@@ -123,20 +123,42 @@ Feedback and suggesions for improvement welcome!</string>
 		<key>8C5513CA-A3BA-48D5-96D2-969A094A641A</key>
 		<dict>
 			<key>xpos</key>
-			<integer>980</integer>
+			<real>980</real>
 			<key>ypos</key>
-			<integer>280</integer>
+			<real>280</real>
 		</dict>
 		<key>C5AB8572-4F9E-4ABF-8551-64D324114597</key>
 		<dict>
 			<key>xpos</key>
-			<integer>425</integer>
+			<real>425</real>
 			<key>ypos</key>
-			<integer>280</integer>
+			<real>280</real>
 		</dict>
 	</dict>
-	<key>variablesdontexport</key>
-	<array/>
+	<key>userconfigurationconfig</key>
+	<array>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>default</key>
+				<string>``</string>
+				<key>placeholder</key>
+				<string></string>
+				<key>required</key>
+				<true/>
+				<key>trim</key>
+				<true/>
+			</dict>
+			<key>description</key>
+			<string></string>
+			<key>label</key>
+			<string>Keyword</string>
+			<key>type</key>
+			<string>textfield</string>
+			<key>variable</key>
+			<string>mainkeyword</string>
+		</dict>
+	</array>
 	<key>version</key>
 	<string>0.1.1</string>
 	<key>webaddress</key>

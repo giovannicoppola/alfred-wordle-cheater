@@ -19,3 +19,8 @@ I used the famous [GraphBase list](https://www-cs-faculty.stanford.edu/~knuth/sg
   <img alt="Downloads"
        src="https://img.shields.io/github/downloads/giovannicoppola/alfred-wordle-cheater/total?color=purple&label=Downloads"><br/>
 </a>
+
+
+# Changelog
+
+- 12-04-2022 Version 0.3 (Alfred 5)
